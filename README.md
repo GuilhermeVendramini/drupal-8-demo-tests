@@ -6,7 +6,7 @@ Enable the module "custom_tests" and "simpletest".
 
 Go to: admin/config/development/testing 
 
-Runthe tes: "\Drupal\custom_tests\Tests\CustomControllerTest
+Run the test: "\Drupal\custom_tests\Tests\CustomControllerTest
 
 # Running via command line
 

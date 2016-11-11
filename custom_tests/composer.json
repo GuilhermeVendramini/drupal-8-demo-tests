@@ -1,0 +1,14 @@
+{
+  "name": "drupal/custom_tests",
+  "type": "drupal-module",
+  "description": "Custom tests module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/custom_tests",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/custom_tests",
+    "source": "http://cgit.drupalcode.org/custom_tests"
+  },
+  "require": { }
+}

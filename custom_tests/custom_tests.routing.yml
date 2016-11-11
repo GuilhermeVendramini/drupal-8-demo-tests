@@ -1,0 +1,8 @@
+
+custom_tests.custom_controller_getcontent:
+  path: '/custom-tests/powered'
+  defaults:
+    _controller: '\Drupal\custom_tests\Controller\CustomController::GetContent'
+    _title: 'Powered'
+  requirements:
+    _permission: 'administer site configuration'

@@ -11,3 +11,7 @@ Run the test: "\Drupal\custom_tests\Tests\CustomControllerTest
 # Running via command line
 
 php core/scripts/run-tests.sh --browser --verbose --url http://yoursite --class "Drupal\just_synchronize_entity\Tests\SynchronizeEntityTest"
+
+More details
+
+https://www.drupal.org/docs/7/testing/running-tests-through-command-line
